@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vengelis</h1>
-<h3 align="center">A backend developer PHP and Tailwind</h3>
+<h3 align="center">A backend developer loving PHP and Tailwind</h3>
 
 - 🔭 I’m currently working on [VCM Project CMS](https://github.com/Vengelis/VCM-Project-CMS)
 - 🌱 I’m currently learning PHP and Javascript
