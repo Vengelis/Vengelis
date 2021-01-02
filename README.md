@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on [VCM Project](https://vlogis-dev.ovh)
 - 💻 All of my projects are available at [Github Repositories](https://github.com/Vengelis?tab=repositories) and [VCM Project - All projects](https://vlogis-dev.ovh/?mod=product)
 - 💬 Ask me about **Tailwind.CSS**
-- 📫 How to reach me: **vengelis@vlogis-dev.ovh**
+- 📫 How to reach me: **vengelis@vlogis-dev.ovh** or [VCM Discord](discord.com/invite/J3dBkf4)
