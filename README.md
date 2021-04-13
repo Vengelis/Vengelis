@@ -7,3 +7,4 @@
 - 💻 All of my projects are available at [Github Repositories](https://github.com/Vengelis?tab=repositories) and [VCM Project - All projects](https://vlogis-dev.ovh/?mod=product)
 - 💬 Ask me about **Tailwind.CSS**
 - 📫 How to reach me: **vengelis@vlogis-dev.ovh** or [VCM Discord](discord.com/invite/J3dBkf4)
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vengelis&show_icons=true&theme=dark" />
