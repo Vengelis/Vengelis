@@ -22,6 +22,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualbasic" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="40" height="40"/></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<img src="https://plugins.jetbrains.com/assets/icons/jetbrains.png" alt="All jetbrains dev tools" width="40" height="40"/></p>
+
 
 <h3 align="left">Statistics:</h3>
 
