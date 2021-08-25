@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Vengelis</h1>
-<h3 align="center">A backend developer loving PHP and Tailwind</h3>
+<h3 align="center">A backend developer loving Java, PHP and Tailwind</h3>
 
 - 🔭 I’m currently working on [VCM Project CMS](https://github.com/Vengelis/VCM-Project-CMS)
-- 🌱 I’m currently using Java, Python, Lua, PHP and Javascript
+- 🌱 I’m currently using Java, Python, Lua, PHP and Javascript and now GOlang !
 - 👯 I’m looking to collaborate on [VCM Project](https://github.com/VCM-Project)
-- 💻 All of my projects are available at [Github Repositories](https://github.com/Vengelis?tab=repositories) and [VCM Project - All projects](https://vlogis-dev.ovh/?mod=product)
+- 💻 All of my projects are available at [Github Repositories](https://github.com/Vengelis?tab=repositories)
 - 💬 Ask me about **Tailwind.CSS**
 - 📫 How to reach me: **vengelis@vlogis-dev.ovh** or [VCM Discord](discord.com/invite/J3dBkf4)
 
