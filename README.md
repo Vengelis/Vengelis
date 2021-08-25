@@ -24,9 +24,3 @@
 <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://plugins.jetbrains.com/assets/icons/jetbrains.png" alt="All jetbrains dev tools" width="40" height="40"/></p>
-
-
-<h3 align="left">Statistics:</h3>
-
-<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vengelis&show_icons=true&theme=dark" />
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=vengelis&show_icons=true&layout=compact&theme=dark" />
