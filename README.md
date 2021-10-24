@@ -1,9 +1,8 @@
 <h1 align="center">Hello, I'm Vengelis</h1>
 <h3 align="center">IT & Renderfarm referee in an animation studio</h3>
 
-- 🔭 I’m currently working on [VCM Project CMS](https://github.com/Vengelis/VCM-Project-CMS)
+- 🔭 I’m currently working on Cloud Pipeline
 - 🌱 I’m currently using Java, Python, Lua, PHP and Javascript and now GOlang !
-- 👯 I’m looking to collaborate on [VCM Project](https://github.com/VCM-Project)
 - 💻 All of my projects are available at [Github Repositories](https://github.com/Vengelis?tab=repositories)
 - 💬 Ask me about **Deadline Thinkbox** <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="20" height="20"/>
 - 📫 How to reach me: **vengelis@vlogis-dev.ovh** or [VCM Discord](discord.com/invite/J3dBkf4)
