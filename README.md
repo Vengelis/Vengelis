@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Vengelis</h1>
 <h3 align="center">IT & Renderfarm referee in an animation studio</h3>
-<h4 align="center">Administrator and IT Manager on the [Eterny](https://discord.gg/eternyuhc) project</h4>
 
-- 🔭 I’m currently working on Cloud Pipeline
+- 🔭 Administrator and IT Manager on the [Eterny project](https://discord.gg/eternyuhc)
 - 🌱 I’m currently using Java, Python, Lua, PHP and Javascript and now GOlang !
 - 💻 All of my projects are available at [Github Repositories](https://github.com/Vengelis?tab=repositories)
 - 💬 Ask me about **Deadline Thinkbox** <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="20" height="20"/>
