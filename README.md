@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Vengelis</h1>
-<h3 align="center">IT & Renderfarm referee in an animation studio</h3>
+<h1 align="center">Hello, I'm Vengelis_</h1>
+<h3 align="center">IT & Renderfarm referee for Eterny Project</h3>
 
 - 🔭 Administrator and IT Manager on the [Eterny project](https://discord.gg/eternyuhc)
 - 🌱 I’m currently using Java, Python, Lua, PHP and Javascript and now GOlang !
