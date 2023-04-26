@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Vengelis</h1>
 <h3 align="center">IT & Renderfarm referee in an animation studio</h3>
+<h4 align="center">Administrator and IT Manager on the [Eterny](https://discord.gg/eternyuhc) project</h4>
 
 - 🔭 I’m currently working on Cloud Pipeline
 - 🌱 I’m currently using Java, Python, Lua, PHP and Javascript and now GOlang !
